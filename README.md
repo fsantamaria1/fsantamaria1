@@ -43,6 +43,10 @@
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsantamaria1&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=Bird_Classification" alt="fsantamaria1" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fsantamaria1&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github&custom_title=Stats&hide=prs,stars,issues" alt="fsantamaria1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true" alt="fsantamaria1" /></p>
+<details>
+    <summary>⚡ GitHub Stats</summary>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fsantamaria1&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=Bird_Classification" alt="fsantamaria1" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fsantamaria1&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github" alt="fsantamaria1" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true" alt="fsantamaria1" /></p>
+</details>
+    
