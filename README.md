@@ -95,10 +95,10 @@
 <details>
     <summary>⚡ GitHub Stats</summary>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fsantamaria1&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&exclude_repo=Bird_Classification" alt="fsantamaria1" />
+        <img src="https://github-readme-stats-three-chi-55.vercel.app/api/top-langs?username=fsantamaria1&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&size_weight=0&count_weight=1" alt="fsantamaria1" />
     </p>
     <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=fsantamaria1&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github" alt="fsantamaria1" />
+        <img src="https://github-readme-stats-three-chi-55.vercel.app/api?username=fsantamaria1&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github" alt="fsantamaria1" />
     </p>
     <p align="center">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true" alt="fsantamaria1" />
