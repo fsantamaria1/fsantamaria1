@@ -13,18 +13,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fredy+Santamaria;" />
 </h1>
 
+<h3 align="center">👩‍💻  About Me</h3>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-<p align="left">
+<p align="center">
 <br>- 🔭 I’m working as a Software Developer
 <br>- 📚 I'm currently learning Kubernetes and Pytest
 <br>- ⚡ In my free time I like to work out and learn new things
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages, Frameworks, and Tools:</h3>
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
     <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
