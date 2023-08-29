@@ -9,7 +9,9 @@
     <a href="mailto:dev.fjsp@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  /></a>
 </div>
 
-<h1 align="center">Hi 👋, I'm Fredy</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fredy+Santamaria;" />
+</h1>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
