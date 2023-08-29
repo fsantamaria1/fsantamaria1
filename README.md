@@ -22,10 +22,11 @@
 <h3 align="center">👩‍💻  About Me</h3>
 
 <p align="center">
-    I am a Software Developer from <b> El Salvador </b>, currently living in <b> Indiana, USA </b>
+    Embracing Challenges and Transforming Them into Code
     <br>- 🔭 I’m working on my portfolio
-    <br>- 📚 I'm currently learning Kubernetes and Pytest
-    <br>- ⚡ In my free time I like to work out and learn new things
+    <br>- 🌱 Expanding my Machine Learning knowledge with Scikit-Learn, PyTorch, and TensorFlow
+    <br>- 📚 Currently diving more into Kubernetes and Docker for advanced orchestration
+    <br>- ⚡ In my free time, I enjoy staying active, exploring new technologies, and expanding my skillset
 </p>
 
 <hr/>
