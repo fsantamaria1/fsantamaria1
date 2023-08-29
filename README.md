@@ -101,7 +101,7 @@
         <img src="https://github-readme-stats-three-chi-55.vercel.app/api?username=fsantamaria1&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github" alt="fsantamaria1" />
     </p>
     <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true" alt="fsantamaria1" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true&exclude_days=Sat,Sun" alt="fsantamaria1" />
     </p>
 </details>
 
