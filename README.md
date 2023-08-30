@@ -95,13 +95,17 @@
 <details>
     <summary>⚡ GitHub Stats</summary>
     <p align="center">
-        <img src="https://github-readme-stats-three-chi-55.vercel.app/api/top-langs?username=fsantamaria1&show_icons=true&locale=en&layout=compact&theme=gruvbox&hide_border=true&size_weight=0&count_weight=1" alt="fsantamaria1" />
+        <a href="https://github-readme-stats-three-chi-55.vercel.app/api?username=fsantamaria1">
+            <img height="200" align="center" src="https://github-readme-stats-three-chi-55.vercel.app/api?username=fsantamaria1&show_icons=true&theme=gruvbox&hide_border=true&card_width=300&rank_icon=github&hide_rank=true" alt="GitHub Stats" />
+        </a>
+        <a href="https://github-readme-stats-three-chi-55.vercel.app/api/top-langs?username=fsantamaria1&layout=compact&size_weight=0.5&count_weight=0.5">
+            <img height="200" align="center" src="https://github-readme-stats-three-chi-55.vercel.app/api/top-langs?username=fsantamaria1&show_icons=true&theme=gruvbox&hide_border=true&card_width=300&langs_count=8&layout=compact&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+        </a>
     </p>
     <p align="center">
-        <img src="https://github-readme-stats-three-chi-55.vercel.app/api?username=fsantamaria1&show_icons=true&locale=en&theme=gruvbox&hide_border=true&rank_icon=github" alt="fsantamaria1" />
-    </p>
-    <p align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true&exclude_days=Sat,Sun" alt="fsantamaria1" />
+        <a href="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&exclude_days=Sat,Sun">
+            <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true&exclude_days=Sat,Sun" alt="Streak Stats"/>
+        </a>
     </p>
 </details>
 
