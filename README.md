@@ -109,4 +109,12 @@
     </p>
 </details>
 
+<details>
+    <summary>⚡ WakaTime Stats</summary>
+    <p align="center">
+        <a href="https://github-readme-stats.vercel.app/api/wakatime?username=fsantamaria1&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fsantamaria1&layout=compact&theme=gruvbox&hide_border=true&langs_count=10" alt="WakaTime Stats">
+        </a>
+</details>
+
 <br/>
