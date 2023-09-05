@@ -23,11 +23,13 @@
 
 <p align="center">
     Embracing Challenges and Transforming Them into Code
-    <br>- 🔭 I’m working on my <code>portfolio</code>
-    <br>- 🌱 Expanding my Machine Learning knowledge with Scikit-Learn, PyTorch, and TensorFlow
-    <br>- 📚 Currently diving more into Kubernetes and Docker for advanced orchestration
+    <br>- 🔭 I’m working on <code>my portfolio</code>
+    <br>- 🌱 Expanding my Machine Learning knowledge with <code>Scikit-Learn, PyTorch, and TensorFlow</code>
+    <br>- 📚 Currently learning more about: <code>JavaScript, HTML, CSS, React, Django, Boostrap, jQuery</code>
     <br>- ⚡ In my free time, I enjoy staying active, exploring new technologies, and expanding my skillset
 </p>
+
+[//]: # (<img src="https://skillicons.dev/icons?i=js,html,css,react,django,bootstrap,jquery">)
 
 <hr/>
 
