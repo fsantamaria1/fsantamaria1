@@ -105,8 +105,8 @@
         </a>
     </p>
     <p align="center">
-        <a href="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&exclude_days=Sat,Sun">
-            <img height="200" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fsantamaria1&theme=gruvbox&hide_border=true&exclude_days=Sat,Sun" alt="Streak Stats"/>
+        <a href="https://github-readme-streak-stats-nine-zeta.vercel.app?user=fsantamaria1&exclude_days=Sat,Sun">
+            <img height="200" align="center" src="https://github-readme-streak-stats-nine-zeta.vercel.app?user=fsantamaria1&theme=gruvbox&hide_border=true&exclude_days=Sat,Sun" alt="Streak Stats"/>
         </a>
     </p>
 </details>
